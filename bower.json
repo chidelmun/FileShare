@@ -24,22 +24,22 @@
     "php",
     "bootstrap"
   ],
-  "homepage": "https://github.com/blueimp/jQuery-File-Upload",
+  "homepage": "",
   "author": {
-    "name": "Sebastian Tschan",
-    "url": "https://blueimp.net"
+    "name": "Delveri Chick",
+    "url": ""
   },
   "maintainers": [
     {
-      "name": "Sebastian Tschan",
-      "url": "https://blueimp.net"
+      "name": "Delveri Chick",
+      "url": ""
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/blueimp/jQuery-File-Upload.git"
+    "url": "git://github.com/chudelmun"
   },
-  "bugs": "https://github.com/blueimp/jQuery-File-Upload/issues",
+  "bugs": "https://github.com/chidelmun",
   "license": "MIT",
   "dependencies": {
     "jquery": ">=1.6",

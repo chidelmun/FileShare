@@ -1,16 +1,4 @@
-/*
- * jQuery File Upload User Interface Plugin
- * https://github.com/blueimp/jQuery-File-Upload
- *
- * Copyright 2010, Sebastian Tschan
- * https://blueimp.net
- *
- * Licensed under the MIT license:
- * https://opensource.org/licenses/MIT
- */
 
-/* jshint nomen:false */
-/* global define, require, window */
 
 ;(function (factory) {
     'use strict';
