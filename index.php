@@ -5,7 +5,7 @@
 
 <meta charset="utf-8">
 <title>File Share</title>
-<meta name="description" content="File Upload widget with multiple file selection, drag&amp;drop support, progress bars, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads and client-side image resizing. Works with any server-side platform (PHP, Python, Ruby on Rails, Java, Node.js, Go etc.) that supports standard HTML form file uploads.">
+<meta name="description" content="Upload and Share files with anyone anywhere and on any device.">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Bootstrap styles -->
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
@@ -43,10 +43,10 @@
 <div id="mainview">
 <div class="container jumbotron">
     <h1>FileShare</h1>
-    <ul class="nav nav-tabs">
+    
        
-        <li class="active"><a href="/">Upload and Share Files...</a></li>
-    </ul>
+        <h3 class="text-warning"> Upload and Share Files with Anyone, Anywhere, and on Any device</h3>
+   
     <br>
     <br>
     <!-- The file upload form used as target for the file upload widget -->
