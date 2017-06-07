@@ -42,7 +42,7 @@
   
 <div id="mainview">
 <div class="container jumbotron">
-    <h1>FileShare</h1>
+    <h1 class="text-warning"> FileShare </h1>
     
        
         <h3 class="text-warning"> Upload and Share Files with Anyone, Anywhere, and on Any device</h3>
