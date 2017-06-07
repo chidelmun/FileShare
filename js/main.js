@@ -3,7 +3,7 @@ $(function () {
     'use strict';
 
 
-    $('#login').hide();
+    // $('#login').hide();
 
     $('#loginbtn').click(function(){
         $('#mainview').hide();
@@ -11,7 +11,7 @@ $(function () {
         
     });
 
-    $('#signupview').hide();
+    // $('#signupview').hide();
 
     // Initialize the jQuery File Upload widget:
     $('#fileupload').fileupload({
