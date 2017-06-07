@@ -360,7 +360,7 @@ class UploadHandler
         $content_length = $this->fix_integer_overflow(
             (int)$this->get_server_var('CONTENT_LENGTH')
         );
-        $post_max_size = $this->get_config_bytes(ini_get('post_max_size'));
+        $post_max_size = $this->get_config_bytes(ini_get('post_max_size')*1024*1024);
         if ($post_max_size && ($content_length > $post_max_size)) {
             $file->error = $this->get_error_message('post_max_size');
             return false;
