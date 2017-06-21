@@ -167,9 +167,13 @@
                     <i class="glyphicon glyphicon-trash"></i>
                     <span>Delete</span>
                 </button>
-                <input type="checkbox" name="delete" value="1" class="toggle">
+                <button onclick="alert('Hello')" class="btn  btn-success">
+                    <i class="glyphicon glyphicon-share"></i>
+                    <span>Share</span>
+                </button>
+               <!--  <input type="checkbox" name="delete" value="1" class="toggle"> -->
             {% } else { %}
-                <button class="btn btn-warning cancel">
+                <button  class="btn btn-warning cancel">
                     <i class="glyphicon glyphicon-ban-circle"></i>
                     <span>Cancel</span>
                 </button>
