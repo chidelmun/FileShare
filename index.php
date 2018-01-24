@@ -39,14 +39,14 @@
     </ul>
   </div>
 </nav>
-  
+
 <div id="mainview">
 <div class="container jumbotron">
     <h1 > FileShare </h1>
-    
-       
+
+
         <h3 > Upload and Share Files with Anyone, Anywhere, and on Any device</h3>
-   
+
     <br>
     <br>
     <!-- The file upload form used as target for the file upload widget -->
@@ -167,7 +167,7 @@
                     <i class="glyphicon glyphicon-trash"></i>
                     <span>Delete</span>
                 </button>
-                <button onclick="alert('Hello')" class="btn  btn-success">
+                <button onclick="alert(location.href)" class="btn  btn-success">
                     <i class="glyphicon glyphicon-share"></i>
                     <span>Share</span>
                 </button>
