@@ -49,9 +49,10 @@
 
     <br>
     <center>
-        <span class="glyphicon glyphicon-cloud"></span>
+        <span class="glyphicon glyphicon-cloud" style="font-size: 160px;margin-left: -480px;"></span>
     </center>
     <br>
+      <h3> Login to upload and share files greater than 1000M </h3>
 
     <!-- The file upload form used as target for the file upload widget -->
     <form id="fileupload" action="//jquery-file-upload.appspot.com/" method="POST" enctype="multipart/form-data">
