@@ -49,7 +49,7 @@
 
     <br>
     <center>
-        <span> <i class="glyphicon glyphicon-cloud" style="font-size:500px"></i> </span>
+        <span class="glyphicon glyphicon-cloud"></span>
     </center>
     <br>
 
