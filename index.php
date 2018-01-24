@@ -168,7 +168,6 @@
                     <span>Delete</span>
                 </button>
                 <input id="share_url" type="button" class="btn btn-success" value="Share File">
-                <input type="text" value="location.href">
                <!--  <input type="checkbox" name="delete" value="1" class="toggle"> -->
             {% } else { %}
                 <button  class="btn btn-warning cancel">
