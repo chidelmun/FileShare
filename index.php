@@ -167,7 +167,7 @@
                     <i class="glyphicon glyphicon-trash"></i>
                     <span>Delete</span>
                 </button>
-                <input id="share_url" type="button" class="btn btn-success" value="Share File"><span> <i class="glyphicon glyphicon-trash"></i></span>
+                <input id="share_url" type="button" class="btn btn-success" value="Share File"><span> <i class="glyphicon glyphicon-trash"></i></span </input>
                <!--  <input type="checkbox" name="delete" value="1" class="toggle"> -->
             {% } else { %}
                 <button  class="btn btn-warning cancel">
