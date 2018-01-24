@@ -48,10 +48,11 @@
         <h3 > Upload and Share Files with Anyone, Anywhere, and on Any device</h3>
 
     <br>
+    <center>
+        <span> <i class="glyphicon glyphicon-cloud" style="font-size:500px"></i> </span>
+    </center>
     <br>
-      <center>
-          <span> <i class="glyphicon glyphicon-cloud"></i> </span> 
-      </center>
+
     <!-- The file upload form used as target for the file upload widget -->
     <form id="fileupload" action="//jquery-file-upload.appspot.com/" method="POST" enctype="multipart/form-data">
         <!-- Redirect browsers with JavaScript disabled to the origin page -->
