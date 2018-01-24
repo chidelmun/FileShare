@@ -169,8 +169,9 @@
                 </button>
                 <button onclick="document.getElementById('share_url').value=location.href" class="btn  btn-success">
                     <i class="glyphicon glyphicon-share"></i>
-                    <span>Share <input id="share_url" type="text" /></span>
+                    <span>Share</span>
                 </button>
+                  <span>  <input id="share_url" type="text" > </span>
                <!--  <input type="checkbox" name="delete" value="1" class="toggle"> -->
             {% } else { %}
                 <button  class="btn btn-warning cancel">
