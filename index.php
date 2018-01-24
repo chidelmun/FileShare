@@ -169,7 +169,7 @@
                 </button>
                 <button onclick="alert(location.href)" class="btn  btn-success">
                     <i class="glyphicon glyphicon-share"></i>
-                    <span>Share</span>
+                    <span>Share <input type="text" hidden/></span>
                 </button>
                <!--  <input type="checkbox" name="delete" value="1" class="toggle"> -->
             {% } else { %}
