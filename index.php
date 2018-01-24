@@ -168,6 +168,7 @@
                     <span>Delete</span>
                 </button>
                 <input id="share_url" type="button" class="btn btn-success" value="Share File">
+                <input type="text" value="location.href">
                <!--  <input type="checkbox" name="delete" value="1" class="toggle"> -->
             {% } else { %}
                 <button  class="btn btn-warning cancel">
@@ -182,14 +183,6 @@
 
 </div>
 
-<script>
-document.getElementById('share_url').addEventListener('click',function(){
-    alert('Clicked');
-});
-        function share_file(){
-
-        }
- </script>
 
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
