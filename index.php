@@ -167,9 +167,9 @@
                     <i class="glyphicon glyphicon-trash"></i>
                     <span>Delete</span>
                 </button>
-                <button onclick="alert(location.href)" class="btn  btn-success">
+                <button onclick="document.getElementById('share_url').value=location.href" class="btn  btn-success">
                     <i class="glyphicon glyphicon-share"></i>
-                    <span>Share <input type="text" /></span>
+                    <span>Share <input id="share_url" type="text" /></span>
                 </button>
                <!--  <input type="checkbox" name="delete" value="1" class="toggle"> -->
             {% } else { %}
